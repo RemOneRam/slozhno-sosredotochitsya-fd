@@ -7,9 +7,14 @@
   --now-hover: rgb(255 0 112 / 0.4);
   --bg-color: #000028;
   --bachground-image: url(../images/cover-image-dark.png);
+  --color-decor: #FF0070;
 }
 
-@media (prefers-color-scheme: dark) {
+.theme-dark .rec {
+  display: block;
+}
+
+/* @media (prefers-color-scheme: dark) {
   :root {
   --text-color: #000028;
   --title-color: #DB00FF;
@@ -19,5 +24,10 @@
   --now-hover: rgb(255 0 112 / 0.4);
   --bg-color: #000028;
   --bachground-image: url(../images/cover-image-dark.png);
+  --color-decor: #FF0070;
   }
-}
+
+  .rec {
+    display: block;
+  }
+} */
