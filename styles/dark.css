@@ -14,7 +14,7 @@
   display: block;
 }
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root {
   --text-color: #000028;
   --title-color: #DB00FF;
@@ -30,4 +30,4 @@
   .rec {
     display: block;
   }
-} */
+}
