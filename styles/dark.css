@@ -8,6 +8,7 @@
   --bg-color: #000028;
   --bachground-image: url(../images/cover-image-dark.png);
   --color-decor: #FF0070;
+  --now-hover-visible: #FF0070;
 }
 
 .theme-dark .rec {
@@ -25,6 +26,7 @@
   --bg-color: #000028;
   --bachground-image: url(../images/cover-image-dark.png);
   --color-decor: #FF0070;
+  --now-hover-visible: #FF0070;
   }
 
   .rec {

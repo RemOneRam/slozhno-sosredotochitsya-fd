@@ -8,6 +8,7 @@
   --bachground-image: url(../images/cover-image-light.png);
   --bg-color: #fff1f7;
   --color-decor: #353430;
+  --now-hover-visible: #353430;
 }
 
 .theme-light .rec {
@@ -26,6 +27,7 @@
     --bachground-image: url(../images/cover-image-light.png);
     --bg-color: #fff1f7;
     --color-decor: #353430;
+    --now-hover-visible: #353430;
   }
 
   .rec {

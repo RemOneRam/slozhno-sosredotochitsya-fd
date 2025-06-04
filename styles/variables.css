@@ -9,6 +9,7 @@
   --title-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --bachground-image: url(../images/cover-image-dark.png);
   --color-decor: #FF0070;
+  --now-hover-visible: #FF0070;
 }
 
 @media (width >= 768px) {

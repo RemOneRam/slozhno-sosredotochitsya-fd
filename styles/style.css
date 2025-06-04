@@ -52,7 +52,7 @@
 }
 
 .header__theme-menu-button:focus-visible {
-  border-bottom: 1px solid var(--now-hover);
+  border-bottom: 1px solid var(--now-hover-visible);
 }
 
 .decorated-zone::before {
@@ -168,6 +168,10 @@
   line-height: 23.4px;
   color: var(--card-text-color);
   margin-top: 10px;
+}
+
+.content__title-none {
+  font-weight: 400;
 }
 
 .image {
